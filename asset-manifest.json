@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reddamdecor/static/css/main.e29e502f.css",
-    "main.js": "/reddamdecor/static/js/main.f8b30f02.js",
+    "main.js": "/reddamdecor/static/js/main.b74a9c1d.js",
     "static/js/453.d3f2f5ec.chunk.js": "/reddamdecor/static/js/453.d3f2f5ec.chunk.js",
     "static/media/image1.png": "/reddamdecor/static/media/image1.5788914fb405e121103e.png",
     "static/media/Group 25.png": "/reddamdecor/static/media/Group 25.ad5c73ae7707c144e3a2.png",
@@ -49,11 +49,11 @@
     "static/media/2.svg": "/reddamdecor/static/media/2.dc46c2afa2a29017898cd13b812b6dc1.svg",
     "index.html": "/reddamdecor/index.html",
     "main.e29e502f.css.map": "/reddamdecor/static/css/main.e29e502f.css.map",
-    "main.f8b30f02.js.map": "/reddamdecor/static/js/main.f8b30f02.js.map",
+    "main.b74a9c1d.js.map": "/reddamdecor/static/js/main.b74a9c1d.js.map",
     "453.d3f2f5ec.chunk.js.map": "/reddamdecor/static/js/453.d3f2f5ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e29e502f.css",
-    "static/js/main.f8b30f02.js"
+    "static/js/main.b74a9c1d.js"
   ]
 }
